@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+D:\cpp\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(73,1): warning C4715: “LinkList<int>::Locate”: 不是所有的控件路径都返回值
+  ConsoleApplication4.vcxproj -> D:\cpp\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
